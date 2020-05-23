@@ -1,2 +1,3 @@
-# Hello World
- Primeiro Repositório Versionado
+# Primeiro Repositório
+ Primeiro Repositório Versionado, GIT HUB
+ Aprendendo Versionamento
